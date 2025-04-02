@@ -204,7 +204,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For inquiries or freelance opportunities, feel free to reach out to me on Upwork or via email at [sobanusman2020@gmail.com](mailto:sobanusman2020@gmail.com).
-
-- **GitHub Push Issues**: If you’re still having trouble pushing to GitHub, ensure you’ve authenticated with a personal access token (as described in the previous response) or set up SSH. Let me know if you need help with this!
-
-Your project is now fully documented and ready to shine on both GitHub and Upwork. You’ve got a professional portfolio piece that showcases your skills! 🚀 If you need any more assistance, I’m here for you!
