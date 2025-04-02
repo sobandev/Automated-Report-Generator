@@ -188,14 +188,16 @@ The tests cover:
 
 ## Why This Project Stands Out
 
-This project showcases my ability to:
-- Build end-to-end automation solutions that save time for businesses.
-- Integrate with modern cloud services like Supabase for data management.
-- Create professional, visually appealing reports with data visualization.
-- Implement secure email automation with 2FA support.
-- Write clean, modular, and well-tested code with robust error handling.
+This tool isn’t just another automation script—it’s a complete, **ready-to-use solution** for businesses that need **fast, reliable, and secure** sales reporting. Here’s why it’s special:
 
-It’s a practical example of how I can help clients streamline their workflows, reduce manual tasks, and deliver actionable insights through automated reporting.
+- **Saves Time & Effort** – Automates data fetching, report generation, and email delivery, eliminating manual work.  
+- **Seamless Cloud Integration** – Uses **Supabase** (a powerful PostgreSQL-based backend) to ensure smooth, real-time data retrieval.  
+- **Professional Reports** – Generates **visually appealing, data-driven PDF reports** with tables and charts for easy analysis.  
+- **Secure Email Automation** – Sends reports via **Gmail with 2FA support**, keeping security a top priority.  
+- **Easy to Customize** – Configure everything from table names to email recipients using a simple **JSON file or CLI options**.  
+- **Rock-Solid Reliability** – Built with **robust error handling** and **unit-tested** to handle failures gracefully.  
+
+This project highlights my expertise in **Python automation, API integration, data visualization, and secure email workflows**—essential skills for businesses looking to streamline operations and make data-driven decisions.
 
 ## License
 
@@ -203,4 +205,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For inquiries or freelance opportunities, feel free to reach out to me on Upwork or via email at [sobanusman2020@gmail.com](mailto:sobanusman2020@gmail.com).
+For inquiries or freelance opportunities, feel free to reach out to me on [Upwork](https://www.upwork.com/freelancers/~014a5fe0f5463ea4a3) or via email at [sobanusman2020@gmail.com](mailto:sobanusman2020@gmail.com).
+
