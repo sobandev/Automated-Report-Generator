@@ -205,23 +205,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For inquiries or freelance opportunities, feel free to reach out to me on Upwork or via email at [sobanusman2020@gmail.com](mailto:sobanusman2020@gmail.com).
 
----
-
-### Final Steps to Ensure Everything Is Ready
-1. **Save the README**:
-   - Save this content as `docs/README.md` in your project directory (`D:\Cybers Lab\automated_report_generator\docs\README.md`).
-
-2. **Create `src/config_template.py`** (if you haven’t already):
-   Since we referenced `config_template.py` in the `README.md`, create this file in `src/`:
-   ```python
-   # src/config_template.py
-   SUPABASE_URL = 'your_supabase_url'
-   SUPABASE_KEY = 'your_supabase_key'
-   EMAIL_USER = 'your_email@gmail.com'
-   EMAIL_PASSWORD = 'your_app_specific_password'
-   ```
-  ```
-
 - **GitHub Push Issues**: If you’re still having trouble pushing to GitHub, ensure you’ve authenticated with a personal access token (as described in the previous response) or set up SSH. Let me know if you need help with this!
 
 Your project is now fully documented and ready to shine on both GitHub and Upwork. You’ve got a professional portfolio piece that showcases your skills! 🚀 If you need any more assistance, I’m here for you!
